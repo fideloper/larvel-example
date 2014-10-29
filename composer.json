@@ -1,0 +1,5 @@
+{
+    "require": {
+        "larvel/framework": "dev-master"
+    }
+}
